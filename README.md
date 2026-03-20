@@ -229,20 +229,14 @@ React, Tailwind CSS, Spring Boot, MySQL, Python, Scikit-learn, Redis
 
 ---
 
-## 🚀 Try It Out Link
-
-Coming Soon  
-
----
-
 ## 💻 GitHub Repository
 
-(Add your repository link here)
+(https://github.com/harsha1826/IncomeShield-AI)
 
 ---
 
 ## 🎥 Demo Video Link
 
-(Add your video link here)
+(https://youtube.com/shorts/3suL0EFTFnw?si=Py_dRPaL3jOARUSy)
 
 ---
